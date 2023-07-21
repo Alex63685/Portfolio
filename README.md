@@ -1,6 +1,6 @@
 # Portfolio
 ### Здесь собраны некоторые реализованные мной проекты, которые я выполнил во время обучения в Яндекс Практикум.
-First Header  | Second Header | Center Aligned | Center Aligned |
+№ п/п  | Название проекта | Описание проекта | Стек |
 ------------- | ------------- | -------------  | -------------- |
-Content Cell  | Content Cell  | Center Aligned | Center Aligned |
-Content Cell  | Content Cell  | Center Aligned | Center Aligned |
+1  | Content Cell  | Center Aligned | Center Aligned |
+2  | Content Cell  | Center Aligned | Center Aligned |
