@@ -14,4 +14,4 @@ TED (от англ. technology, education, design — «технологии, о
 - Прямой связи между длительностью выступления и количеством просмотров нет.
 - Наиболее популярные области деятельности у авторов это Writer, Artist, Author.
 - Большинство авторов выступает один раз.
-## [Ссылка на презентацию:](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Book1_16923614362800/sheet1?publish=yes) 
+## [Ссылка на презентацию](https://public.tableau.com/app/profile/aleksei.pirozhkov/viz/Book1_16923614362800/sheet1?publish=yes) 
